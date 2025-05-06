@@ -1,1 +1,6 @@
 0.0.0.0 bet365.com
+0.0.0.0 betfair.com
+0.0.0.0 betano.com
+0.0.0.0 vaidebet.com
+0.0.0.0 xvideos.com
+0.0.0.0 superbet.com
