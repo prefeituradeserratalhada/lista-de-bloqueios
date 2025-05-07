@@ -12,6 +12,14 @@
 0.0.0.0 casadeapostas.bet.br
 0.0.0.0 reidopitaco.bet.br
 0.0.0.0 xvideos.com
+0.0.0.0 pt.pornhub.com
+0.0.0.0 redtube.com
+0.0.0.0 porntube.com
+0.0.0.0 xhamster.com
+0.0.0.0 sambaporno.com
+0.0.0.0 pornocarioca.com
+0.0.0.0 brasileirinhas.com
+0.0.0.0 youramateurporn.com
 0.0.0.0 sephora.com
 0.0.0.0 belezanaweb.com
 0.0.0.0 epocacosmeticos.com
@@ -53,4 +61,5 @@
 0.0.0.0 netshoes.com
 0.0.0.0 kanui.com
 0.0.0.0 lojasrenner.com
-
+0.0.0.0 fikante.com
+0.0.0.0 fatalmodel.com
