@@ -4,35 +4,51 @@
 0.0.0.0 vaidebet.com
 0.0.0.0 xvideos.com
 0.0.0.0 superbet.com
-sephora.com
-belezanaweb.com
-epocacosmeticos.com
-thebeautybox.com
-drogaraia.com
-panvel.com
-boticario.com
-natura.com
-avon.com
-quemdisseberenice.com
-eudora.com
-maccosmetics.com
-loccitane.com
-vult.com
-maybelline.com
-faroldenoticias.com
-naynneto.com
-jornaldesafio.com
-vilabelaonline.com
-opajeu.com
-blogdomagno.com
-jc.ne10.uol.com.br/blogs/jamildo
-folhape.com
-g1.globo.com
-reporterligeirinho.com
-juniorcampos.net
-nilljunior.com
-falape.com
-blogjulianalima.com
-blogdosilvinhosilva.blogspot.com
-ricardoantunes.net
-blogdellas.com
+0.0.0.0 sephora.com
+0.0.0.0 belezanaweb.com
+0.0.0.0 epocacosmeticos.com
+0.0.0.0 thebeautybox.com
+0.0.0.0 drogaraia.com
+0.0.0.0 panvel.com
+0.0.0.0 boticario.com
+0.0.0.0 natura.com
+0.0.0.0 avon.com
+0.0.0.0 quemdisseberenice.com
+0.0.0.0 eudora.com
+0.0.0.0 maccosmetics.com
+0.0.0.0 loccitane.com
+0.0.0.0 vult.com
+0.0.0.0 maybelline.com
+0.0.0.0 faroldenoticias.com
+0.0.0.0 naynneto.com
+0.0.0.0 jornaldesafio.com
+0.0.0.0 vilabelaonline.com
+0.0.0.0 opajeu.com
+0.0.0.0 blogdomagno.com
+0.0.0.0 jc.ne10.uol.com.br/blogs/jamildo
+0.0.0.0 folhape.com
+0.0.0.0 g1.globo.com
+0.0.0.0 reporterligeirinho.com
+0.0.0.0 juniorcampos.net
+0.0.0.0 nilljunior.com
+0.0.0.0 falape.com
+0.0.0.0 blogjulianalima.com
+0.0.0.0 blogdosilvinhosilva.blogspot.com
+0.0.0.0 ricardoantunes.net
+0.0.0.0 blogdellas.com
+0.0.0.0 mercadolivre.com
+0.0.0.0 shopee.com
+0.0.0.0 amazon.com
+0.0.0.0 magazineluiza.com
+0.0.0.0 americanas.com
+0.0.0.0 casasbahia.com
+0.0.0.0 pontofrio.com
+0.0.0.0 extra.com
+0.0.0.0 aliexpress.com
+0.0.0.0 fastshop.com
+0.0.0.0 dafiti.com
+0.0.0.0 netshoes.com
+0.0.0.0 kanui.com
+0.0.0.0 lojasrenner.com
+0.0.0.0 sephora.com
+0.0.0.0 belezanaweb.com
