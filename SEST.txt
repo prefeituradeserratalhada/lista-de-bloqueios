@@ -15,25 +15,20 @@
 0.0.0.0 sephora.com
 0.0.0.0 belezanaweb.com
 0.0.0.0 epocacosmeticos.com
-0.0.0.0 thebeautybox.com
 0.0.0.0 drogaraia.com
 0.0.0.0 panvel.com
 0.0.0.0 boticario.com
 0.0.0.0 natura.com
 0.0.0.0 avon.com
-0.0.0.0 quemdisseberenice.com
+0.0.0.0 wepink.com.br
 0.0.0.0 eudora.com
-0.0.0.0 maccosmetics.com
-0.0.0.0 loccitane.com
-0.0.0.0 vult.com
-0.0.0.0 maybelline.com
 0.0.0.0 faroldenoticias.com
 0.0.0.0 naynneto.com
 0.0.0.0 jornaldesafio.com
 0.0.0.0 vilabelaonline.com
 0.0.0.0 opajeu.com
 0.0.0.0 blogdomagno.com
-0.0.0.0 jc.ne10.uol.com.br/blogs/jamildo
+0.0.0.0 jc.ne10.uol.com.br
 0.0.0.0 folhape.com
 0.0.0.0 g1.globo.com
 0.0.0.0 reporterligeirinho.com
@@ -58,5 +53,4 @@
 0.0.0.0 netshoes.com
 0.0.0.0 kanui.com
 0.0.0.0 lojasrenner.com
-0.0.0.0 sephora.com
-0.0.0.0 belezanaweb.com
+
