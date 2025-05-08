@@ -12,7 +12,7 @@
 0.0.0.0 casadeapostas.bet.br
 0.0.0.0 reidopitaco.bet.br
 0.0.0.0 xvideos.com
-0.0.0.0 pt.pornhub.com
+0.0.0.0 pornhub.com
 0.0.0.0 redtube.com
 0.0.0.0 porntube.com
 0.0.0.0 xhamster.com
