@@ -60,5 +60,3 @@
 0.0.0.0 netshoes.com
 0.0.0.0 kanui.com
 0.0.0.0 lojasrenner.com
-0.0.0.0 fikante.com
-0.0.0.0 fatalmodel.com
