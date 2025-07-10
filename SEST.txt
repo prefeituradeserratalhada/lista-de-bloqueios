@@ -40,7 +40,7 @@
 0.0.0.0 g1.globo.com
 0.0.0.0 reporterligeirinho.com
 0.0.0.0 juniorcampos.net
-0.0.0.0 reporterligeirinho.com.br
+0.0.0.0 reporterligeirinho.com
 0.0.0.0 nilljunior.com
 0.0.0.0 falape.com
 0.0.0.0 blogjulianalima.com
@@ -61,3 +61,10 @@
 0.0.0.0 netshoes.com
 0.0.0.0 kanui.com
 0.0.0.0 lojasrenner.com
+0.0.0.0 tiktok.com
+0.0.0.0 netflix.com
+0.0.0.0 kwai.com
+0.0.0.0 globoplay.globo.com
+0.0.0.0 disneyplus.com
+0.0.0.0 hbomax.com
+0.0.0.0 youtube.com
