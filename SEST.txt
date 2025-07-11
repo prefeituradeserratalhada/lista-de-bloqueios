@@ -1,4 +1,3 @@
----APOSTAS---
 0.0.0.0 bet365.bet.br
 0.0.0.0 www.bet365.bet.br
 0.0.0.0 betfair.com
@@ -25,7 +24,6 @@
 0.0.0.0 www.casadeapostas.bet.br
 0.0.0.0 reidopitaco.bet.br
 0.0.0.0 www.reidopitaco.bet.br
----PORNO---
 0.0.0.0 xvideos.com
 0.0.0.0 www.xvideos.com
 0.0.0.0 pornhub.com
@@ -44,7 +42,6 @@
 0.0.0.0 www.brasileirinhas.com
 0.0.0.0 youramateurporn.com
 0.0.0.0 www.youramateurporn.com
----BLOGS---
 0.0.0.0 faroldenoticias.com.br
 0.0.0.0 naynneto.com
 0.0.0.0 jornaldesafio.com
@@ -63,7 +60,6 @@
 0.0.0.0 blogdosilvinhosilva.blogspot.com
 0.0.0.0 ricardoantunes.net
 0.0.0.0 blogdellas.com
----LOJAS---
 0.0.0.0 mercadolivre.com
 0.0.0.0 shopee.com
 0.0.0.0 amazon.com
@@ -87,7 +83,6 @@
 0.0.0.0 avon.com
 0.0.0.0 wepink.com.br
 0.0.0.0 eudora.com
----VÍDEOS---
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 m.tiktok.com
