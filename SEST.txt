@@ -158,6 +158,7 @@
 0.0.0.0 manifest.googlevideo.com
 0.0.0.0 video-stats.l.google.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
 0.0.0.0 api.instagram.com
