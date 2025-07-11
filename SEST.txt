@@ -68,3 +68,4 @@
 0.0.0.0 disneyplus.com
 0.0.0.0 hbomax.com
 0.0.0.0 youtube.com
+0.0.0.0 *.youtube.com
