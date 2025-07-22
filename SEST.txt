@@ -282,7 +282,6 @@
 0.0.0.0 discomax.com
 0.0.0.0 beam-images.warnermediacdn.com
 0.0.0.0 braze-images.com
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 wmff.warnermediacdn.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 www.youtube-nocookie.com
