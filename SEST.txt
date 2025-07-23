@@ -1,72 +1,65 @@
 ||kwai-pro.com^
-0.0.0.0 bet365.bet.br
-0.0.0.0 betfair.com
-0.0.0.0 betano.com
-0.0.0.0 vaidebet.bet.br
-0.0.0.0 superbet.bet.br
-0.0.0.0 blaze.com
-0.0.0.0 betnacional.com
-0.0.0.0 pixbet.com
-0.0.0.0 sportingbet.com
-0.0.0.0 KTO.com
-0.0.0.0 brazino777.com
-0.0.0.0 casadeapostas.bet.br
-0.0.0.0 reidopitaco.bet.br
-0.0.0.0 xvideos.com
-0.0.0.0 pornhub.com
-0.0.0.0 redtube.com
-0.0.0.0 porntube.com
-0.0.0.0 xhamster.com
-0.0.0.0 sambaporno.com
-0.0.0.0 pornocarioca.com
-0.0.0.0 brasileirinhas.com
-0.0.0.0 youramateurporn.com
-0.0.0.0 faroldenoticias.com.br
-0.0.0.0 naynneto.com
-0.0.0.0 jornaldesafio.com
-0.0.0.0 vilabelaonline.com
-0.0.0.0 opajeu.com
-0.0.0.0 blogdomagno.com
-0.0.0.0 jc.uol.com
-0.0.0.0 folhape.com
-0.0.0.0 g1.globo.com
-0.0.0.0 reporterligeirinho.com
-0.0.0.0 juniorcampos.net
-0.0.0.0 nilljunior.com
-0.0.0.0 falape.com
-0.0.0.0 blogjulianalima.com
-0.0.0.0 blogdosilvinhosilva.blogspot.com
-0.0.0.0 ricardoantunes.net
-0.0.0.0 blogdellas.com
-0.0.0.0 mercadolivre.com
-0.0.0.0 shopee.com
-0.0.0.0 amazon.com
-0.0.0.0 magazineluiza.com
-0.0.0.0 americanas.com
-0.0.0.0 casasbahia.com
-0.0.0.0 pontofrio.com
-0.0.0.0 extra.com
-0.0.0.0 aliexpress.com
-0.0.0.0 fastshop.com
-0.0.0.0 dafiti.com
-0.0.0.0 netshoes.com
-0.0.0.0 kanui.com
-0.0.0.0 lojasrenner.com
-0.0.0.0 sephora.com
-0.0.0.0 www.sephora.com
-0.0.0.0 belezanaweb.com
-0.0.0.0 www.belezanaweb.com
-0.0.0.0 epocacosmeticos.com
-0.0.0.0 www.epocacosmeticos.com
-0.0.0.0 drogaraia.com
-0.0.0.0 www.drogaraia.com
-0.0.0.0 boticario.com
-0.0.0.0 www.boticario.com
-0.0.0.0 natura.com
-0.0.0.0 www.natura.com
-0.0.0.0 avon.com
-0.0.0.0 www.avon.com
-0.0.0.0 wepink.com.br
-0.0.0.0 www.wepink.com.br
-0.0.0.0 eudora.com
-0.0.0.0 www.eudora.com
+||kuaishou.com^
+||snackvideo.com^
+||bet365.bet.br^ 
+||betfair.com^
+||betano.com^
+||vaidebet.bet.br^
+||superbet.bet.br^
+||blaze.com^
+||betnacional.com^
+||pixbet.com^
+||sportingbet.com^
+||KTO.com^
+||brazino777.com^
+||casadeapostas.bet.br^
+||reidopitaco.bet.br^
+||xvideos.com^
+||pornhub.com^
+||redtube.com^
+||porntube.com^
+||xhamster.com^
+||sambaporno.com^
+||pornocarioca.com^
+||brasileirinhas.com^
+||youramateurporn.com^
+||faroldenoticias.com.br^
+||naynneto.com^
+||jornaldesafio.com^
+||vilabelaonline.com^
+||opajeu.com^
+||blogdomagno.com^
+||jc.uol.com^
+||folhape.com^
+||g1.globo.com^
+||reporterligeirinho.com^
+||juniorcampos.net^
+||nilljunior.com^
+||falape.com^
+||blogjulianalima.com^
+||blogdosilvinhosilva.blogspot.com^
+||ricardoantunes.net^
+||blogdellas.com^
+||mercadolivre.com^
+||shopee.com^
+||amazon.com^
+||magazineluiza.com^
+||americanas.com^
+||casasbahia.com^
+||pontofrio.com^
+||extra.com^
+||aliexpress.com^
+||fastshop.com^
+||dafiti.com^
+||netshoes.com^
+||kanui.com^
+||lojasrenner.com^
+||sephora.com^
+||belezanaweb.com^
+||epocacosmeticos.com^
+||drogaraia.com^
+||boticario.com^
+||natura.com^
+||avon.com^
+||wepink.com.br^
+||eudora.com^
