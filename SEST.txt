@@ -32,6 +32,7 @@
 ||jc.uol.com^
 ||folhape.com^
 ||g1.globo.com^
+||video.globo.com^
 ||reporterligeirinho.com^
 ||juniorcampos.net^
 ||nilljunior.com^
